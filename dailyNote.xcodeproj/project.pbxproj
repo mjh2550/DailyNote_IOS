@@ -20,6 +20,7 @@
 		8F6F59DE28FFE1B9006DAFF1 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F59DD28FFE1B9006DAFF1 /* MemoListTableViewController.swift */; };
 		8F6F59E028FFE86A006DAFF1 /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F59DF28FFE86A006DAFF1 /* ComposeViewController.swift */; };
 		8F6F59E32901087D006DAFF1 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F59E22901087D006DAFF1 /* TestViewController.m */; };
+		8F6F59E5290272F3006DAFF1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F59E4290272F3006DAFF1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		8F6F59DF28FFE86A006DAFF1 /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
 		8F6F59E12901087D006DAFF1 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		8F6F59E22901087D006DAFF1 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		8F6F59E4290272F3006DAFF1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				8F6F59B328FFD771006DAFF1 /* Assets.xcassets */,
 				8F6F59B528FFD771006DAFF1 /* LaunchScreen.storyboard */,
 				8F6F59B828FFD771006DAFF1 /* Info.plist */,
+				8F6F59E4290272F3006DAFF1 /* DetailViewController.swift */,
 				8F6F59DD28FFE1B9006DAFF1 /* MemoListTableViewController.swift */,
 				8F6F59DF28FFE86A006DAFF1 /* ComposeViewController.swift */,
 				8F6F59E12901087D006DAFF1 /* TestViewController.h */,
@@ -288,6 +291,7 @@
 				8F6F59E028FFE86A006DAFF1 /* ComposeViewController.swift in Sources */,
 				8F6F59AD28FFD770006DAFF1 /* SceneDelegate.swift in Sources */,
 				8F6F59DC28FFE055006DAFF1 /* Memo.swift in Sources */,
+				8F6F59E5290272F3006DAFF1 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
